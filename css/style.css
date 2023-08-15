@@ -1,0 +1,52 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.firstContainer{
+    width: 100%; /* Full width of the container */
+    height: 100%; /* Adjust height as needed */
+    background: linear-gradient(to right, #555 50%, #fff 50%); /* Linear gradient with two colors */
+}
+
+.custom-nav {
+    margin-left: auto;
+}
+
+.custom-nav .nav-item {
+    margin-right: 20px; /* Adjust the desired spacing between nav-items */
+}
+
+.navigation{
+    padding: 0 10%;
+}
+  
+
+.firstContainerText{
+    padding: 100px 10%;
+    text-align: left;
+    color: white;
+}
+
+#myBlockElement {
+    display: inline; /* Change the display property to 'inline' */
+}
+  
+#myInlineElement {
+    display: block; /* Change the display property to 'block' */
+}
+
+h1{
+    font-size: 3.5rem;
+
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 5px;
+}
+  
